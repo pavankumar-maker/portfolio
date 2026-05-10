@@ -109,7 +109,7 @@ export default function Hero() {
             <div className="relative z-10 w-full max-w-md mx-auto aspect-square rounded-3xl overflow-hidden border-2 border-primary/20 glow">
               {/* Using a placeholder since I can't guarantee artifact location, but with a comment to user */}
               <img 
-                src="https://raw.githubusercontent.com/pavankumar-maker/pavankumar-maker/main/pavan_kumar.jpg" 
+                src="https://raw.githubusercontent.com/pavankumar-maker/portfolio/main/Pavan.jpeg" 
                 alt="C Pavan Kumar" 
                 className="w-full h-full object-cover"
                 onError={(e) => {
